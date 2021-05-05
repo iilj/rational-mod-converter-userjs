@@ -3,8 +3,7 @@ RationalModConverterUserJS
 
 ## 概要
 
-Mod をとる問題の問題文・サンプルに含まれる大きな値を有理数に変換して横に表示します．
-
+AtCoder/yukicoder の Mod をとる問題の問題文・サンプルに含まれる大きな値を，有理数に変換して横に表示します．
 
 [catupper/RationalModConverter](https://github.com/catupper/RationalModConverter) の userscript 版です．機能的にはほぼ同一ですが，中身はほぼ別モノです．
 
@@ -23,7 +22,7 @@ Mod をとる問題の問題文・サンプルに含まれる大きな値を有�
 
 ## Greasy Fork 配布ページ
 
-- TODO
+- [RationalModConverterUserJS](https://greasyfork.org/ja/scripts/425982-rationalmodconverteruserjs)
 
 
 ## 使用方法

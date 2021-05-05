@@ -2,7 +2,7 @@
 // @name         RationalModConverterUserJS
 // @namespace    iilj
 // @version      2021.5.5.0
-// @description  RationalModConverter https://github.com/catupper/RationalModConverter/ の userjs 版です．
+// @description  RationalModConverter の userjs 版です．Mod をとる問題の問題文・サンプルに含まれる大きな値を，有理数に変換して横に表示します．
 // @author       iilj
 // @match        https://atcoder.jp/contests/*/tasks/*
 // @match        https://yukicoder.me/problems/*

@@ -1,6 +1,8 @@
 rational-mod-converter-userjs
 =====
 
+[![Lint](https://github.com/iilj/rational-mod-converter-userjs/actions/workflows/main.yml/badge.svg)](https://github.com/iilj/rational-mod-converter-userjs/actions/workflows/main.yml)
+
 ## 概要
 
 AtCoder/yukicoder の Mod をとる問題の問題文・サンプルに含まれる大きな値を，有理数に変換して横に表示します．
